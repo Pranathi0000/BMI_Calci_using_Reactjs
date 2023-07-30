@@ -1,0 +1,44 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/1410615241/vector/school-icon-seamless-pattern-vector-illustration.jpg?s=612x612&w=0&k=20&c=YyszrfdDjYWmx-fRar-s8Uottab1E3SQ5vPvgZM0fZ8=');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+.main{
+    border: 3px solid black;
+    width:400px;
+    height:500px;
+    margin:auto;
+    margin-bottom: 30px;
+    background-color: rgb(253, 45, 80);
+}
+input{
+    display:grid;
+    margin:auto;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    height: 30px;
+    font-weight: 600;
+}
+.result{
+    border:2px solid black;
+    width:200px;
+    height: 70px;
+    margin: auto;
+    margin-top:20px;
+    padding:10px;
+    font-size: x-large;
+    font-weight: 700;
+    overflow: hidden;
+}
+button{
+    width:120px;
+    height:30px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+button:hover{
+    border-radius: 10px;
+    width: 140px;
+    height: 40px;
+    font-size: large;
+}
